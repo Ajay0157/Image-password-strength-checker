@@ -1,6 +1,7 @@
 Image Password Strength Checker
 
-A simple password strength checker that provides visual feedback using background images. As the user enters their password letter by letter or digit by digit, the background image changes to indicate the strength of the password.
+A simple password strength checker that provides visual feedback using background images. 
+As the user enters their password letter by letter or digit by digit, the background image changes to indicate the strength of the password.
 
 Features
 Dynamic Background Images: The background image changes based on the password strength.
